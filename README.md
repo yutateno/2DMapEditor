@@ -1,5 +1,5 @@
 # 2DMapEditor
-![Gif](https://raw.github.com/wiki/yutateno/2DMapEditor/2dmapeditor.gif)
+![Gif](https://raw.github.com/wiki/yutateno/2DMapEditor/2dmap.gif)
 <br><br>
 2Dゲームのマップエディター(レベルエディタ)です。
 
